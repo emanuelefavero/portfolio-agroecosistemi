@@ -677,7 +677,7 @@ footer .contacts-and-social .icon:active {
     }
 }
 
-@media only screen and (max-width: 370px) and (max-height: 720px) {
+@media only screen and (max-width: 370px) and (max-height: 590px) {
     .page-1 img {
         opacity: .2;
     }
