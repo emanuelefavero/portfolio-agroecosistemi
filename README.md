@@ -1,4 +1,4 @@
-# Portfolio Agro ecosistemi
+# Portfolio Agro Ecosistemi
 
 This is a portfolio I made for my brother when he graduated university
 
