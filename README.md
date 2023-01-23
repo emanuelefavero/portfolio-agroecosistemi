@@ -16,3 +16,7 @@ This is a portfolio I made for my brother when he graduated university
 
 1. Clone the repo
 2. Open the index.html file in your browser
+
+## License
+
+- [MIT](LICENSE.md)
